@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: d3ea72c084c835f448fb7ac59464c822
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9002327014886698157
+    second: GameDevelopmentLogo_0
+  - first:
+      213: -2056024637296643740
+    second: GameDevelopmentLogo_1
+  - first:
+      213: -7475810654526037862
+    second: GameDevelopmentLogo_2
+  - first:
+      213: -6915903253452295567
+    second: GameDevelopmentLogo_3
+  - first:
+      213: 2195506812386968537
+    second: GameDevelopmentLogo_4
+  - first:
+      213: 7275729561126511394
+    second: GameDevelopmentLogo_5
+  - first:
+      213: 579332824561153885
+    second: GameDevelopmentLogo_6
+  - first:
+      213: 4071364285232116798
+    second: GameDevelopmentLogo_7
+  - first:
+      213: -7993857358946010122
+    second: GameDevelopmentLogo_8
+  - first:
+      213: -2137662804741449333
+    second: GameDevelopmentLogo_9
+  - first:
+      213: 2069626434767427334
+    second: GameDevelopmentLogo_10
+  - first:
+      213: 1087076093480061848
+    second: GameDevelopmentLogo_11
+  - first:
+      213: -6999486047052399451
+    second: GameDevelopmentLogo_12
+  - first:
+      213: 1273388464523255871
+    second: GameDevelopmentLogo_13
+  - first:
+      213: 1963698742343361896
+    second: GameDevelopmentLogo_14
+  - first:
+      213: -219732244808299480
+    second: GameDevelopmentLogo_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_0
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 265
+        width: 1178
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac693249b0beec70800000000000000
+      internalID: 9002327014886698157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 64
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4617b745c788773e0800000000000000
+      internalID: -2056024637296643740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 66
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9025e871d5904890800000000000000
+      internalID: -7475810654526037862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172f10d02a6c500a0800000000000000
+      internalID: -6915903253452295567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 65
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3864640d1087e10800000000000000
+      internalID: 2195506812386968537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 65
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22321c4cc7598f460800000000000000
+      internalID: 7275729561126511394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_6
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 65
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57f0be62243a0800800000000000000
+      internalID: 579332824561153885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_7
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 66
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34f8741f34608830800000000000000
+      internalID: 4071364285232116798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_8
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 65
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb71e6d51d101190800000000000000
+      internalID: -7993857358946010122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_9
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 65
+        width: 57
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8912d1410f7552e0800000000000000
+      internalID: -2137662804741449333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_10
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 64
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607121ee64ac8bc10800000000000000
+      internalID: 2069626434767427334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_11
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 66
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bc2bb82f1161f00800000000000000
+      internalID: 1087076093480061848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_12
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 66
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac732b6684dcde90800000000000000
+      internalID: -6999486047052399451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_13
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 65
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f302df0df0cfba110800000000000000
+      internalID: 1273388464523255871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_14
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 66
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865e14f1a95704b10800000000000000
+      internalID: 1963698742343361896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameDevelopmentLogo_15
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 66
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c808200ba53fcf0800000000000000
+      internalID: -219732244808299480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
